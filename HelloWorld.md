@@ -1,8 +1,7 @@
 ---
 title: "HelloWorld"
-author: "Nitendra"
+author: "NS"
 date: "14/06/2020"
-output: html_document
+output: html
 ---
-
 ## This is a markdown file
